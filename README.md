@@ -3,7 +3,7 @@
 A clean, animated custom watch face for [Bangle.js 2](https://www.espruino.com/Bangle.js2) showing:
 
 - 🕒 Time (with blinking colon)
-- 🌡️ Temperature
+- 🌡️ Temperature (from puckjs)
 - ❤️ Heart Rate
 - 👣 Steps
 - 🔋 Battery level with color indicator
@@ -17,5 +17,5 @@ A clean, animated custom watch face for [Bangle.js 2](https://www.espruino.com/B
 - Light animated background for visual depth
 - Built with Espruino JavaScript
 
-## 📂 File Structure
+
 
