@@ -1,0 +1,10 @@
+{
+  "id": "tempwatch_v2",
+  "name": "Temp Watch Face V2",
+  "type": "clock",
+  "src": "tempwatch_v2.app.js",
+  "icon": "tempwatch.png",
+  "sortorder": 100,
+  "version": "0.02",
+  "description": "Custom watch face with time, temperature, heart rate, steps, battery, and animated background."
+}
