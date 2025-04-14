@@ -17,5 +17,6 @@ A clean, animated custom watch face for [Bangle.js 2](https://www.espruino.com/B
 - Light animated background for visual depth
 - Built with Espruino JavaScript
 
-
+# IDE
+https://www.espruino.com/ide/
 
